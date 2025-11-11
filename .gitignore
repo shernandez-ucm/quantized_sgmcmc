@@ -1,5 +1,6 @@
 venv
 posterior_samples/
+posterior_samples_quantized/
 .ipynb_checkpoints
 __py_cache__
 src/__pycache__/
